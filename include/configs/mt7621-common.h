@@ -49,3 +49,4 @@
 					  230400, 460800, 921600 }
 
 #endif  /* __CONFIG_MT7621_COMMON_H */
+#define MT7621_LED_STATUS2 14
